@@ -30,10 +30,25 @@ sudo pip install awscli
 ```
 
 6. Then, move to the S3 bucket and upload the SampleApp_Linux.
+
+![alt text](https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/BucketDeploy.jpg)
+
+
+![alt text](https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/BucketApp.jpg)
+
 7. Once this is done move to CodeDeploy and CodePipeline.
 8. In CodePipeline, set up start new Application deployment and deployment group.
 9. Select storage as S3, select the bucket and enable versioning. Follow other steps and deploy.
 10. Once deployed in the pipeline, change the source file in S3, with the updated SampleApp_Linux.
+
+#### Previous SampleApp_Linux
+
+![alt text](https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/SampleApp_Linux.jpg)
+
+#### Updated SampleApp_Linux
+
+![alt text](https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/SampleApp_Linux_Updated.jpg)
+
 11. Record the changes in Pipeline.
 12. You are all set to proceed to the Manual Approval.
 13. First create an IAM role of CodePipelineApproval, Move to creating a new IAM role and select 'Another AWS account' then specify account ID.
