@@ -120,5 +120,23 @@ This Case Study focussed on testing custom Alexa Skills with user defined output
 
 <img src="https://github.com/259mit/AWS_1021/blob/c20f589cc5e0ca3c9237dd7141e682d14596a477/AlexaWithS3/Snapshots/step%201.jpg" width=600>
 
-18. 
+18. Head over to created skill and select involcation name
+
+<img src="https://github.com/259mit/AWS_1021/blob/18445e740624642d8b851c01d11e68629e86df8a/AlexaWithS3/Snapshots/step%202.jpg" width=600>
+
+19. Head over to endpoints. Now in the highlighted default endpoint paste the lambda function ARN that you copied.
+
+<img src="https://github.com/259mit/AWS_1021/blob/18445e740624642d8b851c01d11e68629e86df8a/AlexaWithS3/Snapshots/step%203.jpg" width=600>
+
+20. Next, head over to interfaces and tick the two sections.
+
+<img src="https://github.com/259mit/AWS_1021/blob/18445e740624642d8b851c01d11e68629e86df8a/AlexaWithS3/Snapshots/step%204a.jpg" width=600>
+
+<img src="https://github.com/259mit/AWS_1021/blob/18445e740624642d8b851c01d11e68629e86df8a/AlexaWithS3/Snapshots/step%204b.jpg" width=600>
+
+21. Next, Head over to interaction model > Intents.
+
+<img src="https://github.com/259mit/AWS_1021/blob/18445e740624642d8b851c01d11e68629e86df8a/AlexaWithS3/Snapshots/step%205.jpg" width=600>
+
+22. Next, 
 
