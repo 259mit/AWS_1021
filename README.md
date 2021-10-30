@@ -143,7 +143,7 @@ This Case Study focussed on testing custom Alexa Skills with user defined output
 
 <img src="https://github.com/259mit/AWS_1021/blob/18445e740624642d8b851c01d11e68629e86df8a/AlexaWithS3/Snapshots/step%206.jpg" width=600>
 
-24. Scroll down and click on audio_input.
+24. Scroll down and click on audio_input and select slot type as AMAZON.NUMBER
 
 <img src="https://github.com/259mit/AWS_1021/blob/9c4a97bda67ce5c199f6a5ab880a03dd6d7d3e3e/AlexaWithS3/Snapshots/step%207.jpg" width=600>
 
