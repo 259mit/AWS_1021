@@ -3,6 +3,8 @@
 #### By: Mithesh Ramachandran
 #### Under the guidance of: Prof. Ankit Shah
 
+------------------------------------------------
+
 ## Section 1: Mannual Approval of CodeDeploy
 
 This Case Study focussed on deploying an application or a webpage using Amazon Web Service (AWS) and store the website data in S3 Buckets, deploy the code but ensiure a manual approval of the commit from a third party account.
@@ -65,6 +67,8 @@ sudo pip install awscli
 15. You are all set with manual approval. 
 16. The recipient should accept the invitation.
 17. Then test the application commit.
+
+------------------------------------------------
     
 ## Section 2: Alexa Skills
 
@@ -112,5 +116,9 @@ This Case Study focussed on testing custom Alexa Skills with user defined output
 <img src="https://github.com/259mit/AWS_1021/blob/bdac297a373ffb73887f316aeec5ede21280b584/AlexaWithS3/Snapshots/Lambda%203.jpg" width=600>
 
 16. Now head over to Alexa Developer Console.
-17. 
+17. Click on create skill
+
+<img src="https://github.com/259mit/AWS_1021/blob/c20f589cc5e0ca3c9237dd7141e682d14596a477/AlexaWithS3/Snapshots/step%201.jpg" width=600>
+
+18. 
 
