@@ -31,10 +31,10 @@ sudo pip install awscli
 
 6. Then, move to the S3 bucket and upload the SampleApp_Linux.
 
-![alt text](https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/BucketDeploy.jpg)
+<img src="https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/BucketDeploy.jpg" width=600>
 
 
-![alt text](https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/BucketApp.jpg)
+<img src="https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/BucketApp.jpg" width=600>
 
 7. Once this is done move to CodeDeploy and CodePipeline.
 8. In CodePipeline, set up start new Application deployment and deployment group.
@@ -43,16 +43,25 @@ sudo pip install awscli
 
 #### Previous SampleApp_Linux
 
-![alt text](https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/SampleApp_Linux.jpg)
+<img src="https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/SampleApp_Linux.jpg" width=600>
 
 #### Updated SampleApp_Linux
 
-![alt text](https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/SampleApp_Linux_Updated.jpg)
+<img src="https://github.com/259mit/AWS_1021/blob/8a2011b08f12164ff9a20164fd523a9414ea4d33/CodeDeploy/Snapshots/SampleApp_Linux_Updated.jpg" width=600>
 
 11. Record the changes in Pipeline.
 12. You are all set to proceed to the Manual Approval.
 13. First create an IAM role of CodePipelineApproval, Move to creating a new IAM role and select 'Another AWS account' then specify account ID.
 14. Then go to SNS and follow the dorections. Set up Email based notification.
+
+<img src="https://github.com/259mit/AWS_1021/blob/bf5d3dfd9772f2d17bf9a9af202176752bad7769/CodeDeploy/Snapshots/SNS.jpg" width=600>
+
+<img src="https://github.com/259mit/AWS_1021/blob/bf5d3dfd9772f2d17bf9a9af202176752bad7769/CodeDeploy/Snapshots/SNS%20email.jpg" width=600>
+
+<img src="https://github.com/259mit/AWS_1021/blob/bf5d3dfd9772f2d17bf9a9af202176752bad7769/CodeDeploy/Snapshots/SNS%20Email%202.jpg" width=600>
+
+<img src="https://github.com/259mit/AWS_1021/blob/bf5d3dfd9772f2d17bf9a9af202176752bad7769/CodeDeploy/Snapshots/SNS%20confirm.jpg" width=600>
+
 15. You are all set with manual approval. 
 16. The recipient should accept the invitation.
 17. Then test the application commit.
