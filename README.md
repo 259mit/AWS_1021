@@ -1,4 +1,4 @@
-# Cloud Computing Case Study 1 & 2 documentation
+# Cloud Computing Case Study 1 & 2 Documentation
 
 #### By: Mithesh Ramachandran
 #### Under the guidance of: Prof. Ankit Shah
