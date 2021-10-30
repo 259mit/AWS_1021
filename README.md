@@ -2,3 +2,8 @@
 
 ## By: Mithesh Ramachandran
 ## Under the guidance of: Prof. Ankit Shah
+
+
+
+    _________________________________________________________________
+    Layer (type)                 Output Shape              Param #   
