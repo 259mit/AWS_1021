@@ -1,12 +1,14 @@
 # Cloud Computing Case Study 1 & 2 documentation
 
-## By: Mithesh Ramachandran
-## Under the guidance of: Prof. Ankit Shah
+#### By: Mithesh Ramachandran
+#### Under the guidance of: Prof. Ankit Shah
+
+## Section 1: Mannual Approval of CodeDeploy
 
 
 
-    _________________________________________________________________
-    Code  
-    _________________________________________________________________
+
+
+    code  
     
 a
