@@ -193,3 +193,4 @@ This Case Study focussed on testing custom Alexa Skills with user defined output
 Error 1:
 
 <img src="https://github.com/259mit/AWS_1021/blob/6ee0a0b1603bce4a20cc191b2ede5411597a0b24/Errors%20and%20Debugging/Snapshots/AlexaError.jpg" width=600>
+
